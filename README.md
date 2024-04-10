@@ -22,10 +22,10 @@
 
 ## About The Project
 
-> #### Written in: ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+#### Written in: ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
     <p align=center>
-        ![Dice Roller Screen Shot](/images/screenshot.png)
+        <img src="/images/screenshot.png)" />
     </p>
 
 <p>
