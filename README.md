@@ -1,4 +1,5 @@
 <a name="readme-top"></a>
+
 # README.md
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -10,10 +11,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/AchroDev/DiceRollerPractice">
-    <img src="app/src/main/res/drawable/dice_1.xml" alt="Logo" width="80" height="80">
-  </a>
-
 <h3 align="center"> Dice Roller </h3>
 
   <p align="center">
@@ -23,16 +20,25 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
-##### Written in: ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Dice Roller Screen Shot](/images/screenshot.png)
+
+> #### Written in: ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+<div>
+    <p align=center>
+        ![Dice Roller Screen Shot](/images/screenshot.png)
+    </p>
+</div>
 
 <p>
     This project is part of the learning path in Kotlin. This app features a single die with 6 sides and a button that will cause the die to "roll" at random and change to another face.
 </p>
 
 <!-- ACKNOWLEDGEMENTS -->
+
 ## Acknowledgements
+
 * [othneildrew's README template](https://github.com/othneildrew/Best-README-Template)
 * [Android Developer Course - Create an Interactive Dice Roller](https://developer.android.com/codelabs/basic-android-kotlin-compose-build-a-dice-roller-app?)
 
@@ -48,5 +54,3 @@
 [issues-url]: https://github.com/AchroDev/DiceRollerpractice/issues
 [license-shield]: https://img.shields.io/github/license/AchroDev/AchroDev.svg?style=for-the-badge
 [license-url]: https://github.com/AchroDev/DiceRollerpractice/blob/main/LICENSE.txt
-
-**Enjoy!**
