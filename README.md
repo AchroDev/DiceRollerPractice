@@ -22,11 +22,11 @@
 
 ## About The Project
 
-#### Written in: ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+### Written in: ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
-    <p align=center>
-        <img src="/images/screenshot.png)" />
-    </p>
+<p align=center>    
+![Dice Roller Screen Shot](/images/screenshot.png)
+</p>    
 
 <p>
     This project is part of the learning path in Kotlin. This app features a single die with 6 sides and a button that will cause the die to "roll" at random and change to another face.
